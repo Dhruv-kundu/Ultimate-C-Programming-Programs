@@ -1,0 +1,176 @@
+Program 1: Write a program to calculate the factorial of any number.
+Program 2: Write a program to calculate the factorial of any number using a function.
+Program 3: Write a program to calculate the factorial of any number using recursion.
+Program 4: Write a program to swap the values of two variables using a third variable.
+Program 5: Write a program to swap the values of two variables without using a third variable.
+Program 6: Write a program to swap the values of two variables using XOR operation.
+Program 7: Write a program to check whether the input year is a leap year or not.
+Program 8: Write a program to find the sum of digits of a number.
+Program 9: Write a program to find the sum of digits of a number using function.
+Program 10: Write a program to print Fibonacci series.
+Program 11: Write a program to print Fibonacci series using function.
+Program 12: Write a program to print Fibonacci series using recursion.
+Program 13: Write a program to reverse a number.
+Program 14: Write a program to reverse a number using function.
+Program 15: Write a program to reverse a number using recursion.
+Program 16: Write a program to find the sum of first n natural numbers.
+Program 17: Write a program to find the sum of first n natural numbers using function.
+Program 18: Write a program to find the sum of first n natural numbers using recursion.
+Program 19: Write a program to count the number of digits in a given number.
+Program 20: Write a program to check whether a number is an Armstrong number.
+Program 21: Write a program to check whether a number is an Armstrong number using function.
+Program 22: Write a program to check whether a number is an Armstrong number using recursion.
+Program 23: Write a program to check whether a number is a palindrome.
+Program 24: Write a program to check whether a number is a palindrome using function.
+Program 25: Write a program to check whether a number is a palindrome using recursion.
+Program 26: Write a program to check whether a number is a perfect number.
+Program 27: Write a program to check whether a number is a perfect number using function.
+Program 28: Write a program to check whether a number is a perfect number using recursion.
+Program 29: Write a program to find the GCD of two numbers using Euclid’s algorithm (recursion).
+Program 30: Write a program to find the sum of elements of an array.
+Program 31: Write a program to find the average of elements in an array.
+Program 32: Write a program to reverse an array.
+Program 33: Write a program to find the transpose of a 2×2 matrix.
+Program 34: Write a program to calculate x^n using recursion.
+Program 35: Write a program to find the maximum and minimum elements in an array.
+Program 36: Write a program to print a star pattern using nested loops.
+*
+***
+***** 
+Program 37: Write a program to print a number pattern using nested loops.
+1
+1 2
+1 2 3
+1 2 3 4 
+1 2 3 4 5 
+Program 38: Write a program to print an inverted star pattern using nested loops.
+****** 
+***** 
+**** 
+***
+**
+*
+Program 39: Write a program to print a character pattern using nested loops.
+A
+B c
+D E F 
+G H I J
+Program 40: Write a program to print a hollow rectangular pattern.
+*****
+*   *
+*   *
+*****
+Program 41: Write a program to print a diamond pattern.
+  *
+ ***
+*****
+ ***
+  *
+Program 42: Write a program to print a butterfly pattern.
+*      *
+**    **
+***  ***
+********
+********
+***  ***
+**    **
+*      *
+Program 43: Write a program to swap two numbers using a third variable (call by value).
+Program 44: Write a program to swap two numbers without using a third variable (call by value).
+Program 45: Write a program to swap two numbers using XOR operation (call by value).
+Program 46: Write a program to swap two numbers using a third variable (call by reference).
+Program 47: Write a program to swap two numbers without using a third variable (call by reference).
+Program 48: Write a program to swap two numbers using XOR operation (call by reference).
+Program 49: Write a program to check whether a number is prime.
+Program 50: Write a program to check whether a number is prime using function.
+Program 51: Write a program to check whether a number is prime using recursion.
+Program 52: Write a program to print all prime numbers from 1 to n.
+Program 53: Write a program to perform addition of two 2×2 matrices.
+Program 54: Write a program to add two matrices with user-defined rows and columns.
+Program 55: Write a program to perform matrix multiplication.
+Program 56: Write a program to count even and odd elements in an array.
+Program 57: Write a program to check whether a string is a palindrome using in-built functions.
+Program 58: Write a program to check whether a string is a palindrome without using in-built functions.
+Program 59: Write a program to check whether a string is a palindrome using a user-defined function.
+Program 60: Write a program to check whether a string is a palindrome using recursion.
+Program 61: Given an array from 1 to n with one missing number, write a program to find the missing
+number.
+Program 62: Write a program to search an element in a 2D array.
+Program 63: Write a program to sort an array using Bubble Sort.
+Program 64: Write a program to sort an array using Selection Sort.
+Program 65: Write a program to sort an array using Insertion Sort.
+Program 66: Write a program to sort an array using Quick Sort.
+Program 67: Write a program to sort an array using Merge Sort.
+Program 68: Write a program to define a structure date and display it in dd-mm-yyyy format.
+Program 69: Write your own version of strlen() without using .
+Program 70: Write your own version of strcpy() without using .
+Program 71: Write a program to reverse a string using array indexing.
+Program 72: Write a program to reverse a string using pointers.
+Program 73: Write a function slice() to extract a substring from index m to n.
+Program 74: Write a program to encrypt and decrypt a string using ASCII manipulation.
+Program 75: Write your own version of strcmp().
+Program 76: Write your own version of strcat().
+Program 77: Write a program to check whether two strings are anagrams.
+Program 78: Write a program to write integers and characters into a file.
+Program 79: Write a program to read a string from a file character by character.
+Program 80: Write a program to append data to an existing file.
+Program 81: Write a program to read integers from a file.
+Program 82: Write a program to read a file using fgets().
+Program 83: Write a program to count the number of lines in a file.
+Program 84: Write a program to count the number of characters in a file.
+Program 85: Write a program to copy contents of one file to another file.
+Program 86 : Write a program to demonstrate the use of auto storage class.
+Program 87 : Write a program to demonstrate the use of register storage class
+Program 88 :Write a program to demonstrate the use of static variable inside a function.
+Program 89 :Write a program to demonstrate the use of extern storage class.
+Program 90 :Write a program to show difference between static and non-static variables.
+Program 91 :Write a program to demonstrate scope of global and local variables.
+Program 92 :Write a program to show lifetime of a static variable.
+Program 93 :Write a C program to store and display details of a student (roll number, name, marks) using a structure.
+Program 94 :Write a program to read and display details of 3 employees using an array of structures.
+Program 95 :Write a program to pass a structure to a function and display its members.
+Program 96 :Write a program to use a pointer to a structure to access and modify structure members.
+Program 97 :Write a program to find the student with highest marks using an array of structures.
+Program 98 :Write a C program to demonstrate the use of a union.
+Program 99 :Write a program to show memory sharing in a union.
+Program 100 :Write a program using union inside a structure.
+Program 101 :Write a program to use typedef for defining a new data type.
+Program 102 :Write a program using typedef with structure.
+Program 103 :Write a program using typedef with pointer.
+Program 104 :Write a program to define and use an enumeration.
+Program 105 :Write a program to assign values to enumeration constants
+Program 106 :Write a program using enum with switch case.
+Program 107 :Write a C program to allocate memory for n integers using malloc() and display them.
+Program 108 :Write a program to demonstrate the use of calloc() for dynamic memory allocation.
+Program 109 :Write a program to find the sum of dynamically allocated array elements.
+Program 110 :Write a program to dynamically allocate memory for a string and display it.
+Program 111 :Write a program to resize a dynamically allocated array using realloc()
+Program 112 :Write a program to create a dynamic 2D array using malloc().
+Program 113 :Write a program to dynamically allocate memory for a structure and access its members.
+Program 114 :Write a C program to demonstrate the use of a generic pointer (void *).
+Program 115 :Write a program using a generic pointer to print different data types using a function.
+Program 116 :Write a program to declare and initialize a self-referential structure variable
+Program 117 :Write a C program to convert temperature from Celsius to Fahrenheit.
+Program 118 :Write a C program to convert temperature from Fahrenheit to Celsius
+Program 119 :Write a C program to find the largest of three numbers.
+Program 120 :Write a C program to check whether a number is even or odd.
+Program 121 :Write a C program to assign grades based on marks.
+Program 122 :Write a C program to implement a simple calculator using switch case
+Program 123 :Write a C program to calculate Simple Interest.
+Program 124 :Write a C program to calculate Compound Interest.
+Program 125 :Write a C program to convert a decimal number to binary.
+Program 126 :Write a C program to print Pascal’s Triangle.
+     1 
+    1 1
+   1 2 1
+  1 3 3 1
+ 1 4 6 4 1
+Program 127 : Write a C program to print numbers from 1 to 10, but stop the loop when the number reaches 6 using the break statement.
+Program 128 : Write a C program to print numbers from 1 to 10, but skip printing number 5 using the continue statement.
+Program 129 : Write a C program using goto to print numbers from 1 to 5.
+Program 130 : Write a C program to search an element in an array and terminate the loop immediately when the element is found using break.
+Program 131 : Write a C program to print all numbers from 1 to 20, but skip multiples of 3 using continue.
+Program 132 : Write a C program using goto to force the user to enter a positive number.
+Program 133 : Write a C program using an infinite loop that keeps taking numbers from the user and terminates when the user enters -1 using break.
+Program 134 : Write a C program to print a number pattern, but skip printing when row number equals column number using continue.
+Program 135 : Write a C program that uses goto to exit from nested loops when a specific condition is met.

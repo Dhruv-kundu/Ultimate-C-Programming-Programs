@@ -1,0 +1,36 @@
+// Program 76: Write your own version of strcat().
+
+#include <stdio.h>
+
+/* User-defined strcat function */
+void my_strcat(char str1[], char str2[]) {
+    int i = 0, j = 0;
+
+    // Move i to the end of str1
+    while(str1[i] != '\0')
+        i++;
+
+    // Append str2 to str1
+    while(str2[j] != '\0') {
+        str1[i] = str2[j];
+        i++;
+        j++;
+    }
+
+    str1[i] = '\0'; // Null terminate
+}
+
+int main() {
+    char str1[100], str2[50];
+
+    printf("Enter first string: ");
+    scanf("%s", str1);
+    printf("Enter second string: ");
+    scanf("%s", str2);
+
+    my_strcat(str1, str2);
+
+    printf("Concatenated string: %s\n", str1);
+
+    return 0;
+}
