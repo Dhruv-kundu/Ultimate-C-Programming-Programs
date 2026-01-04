@@ -10,6 +10,7 @@ The programs cover concepts ranging from **basic syntax** to **advanced topics**
 This repository **does NOT contain Data Structures and Algorithms (DSA) problems**.  
 
 All questions focus strictly on **fundamental C programming concepts**.
+
 I am sharing this collection so that **other students can also practice, revise, and prepare effectively for exams, viva, and practical assessments**.
 
 ---
